@@ -1,4 +1,7 @@
 ﻿AI teacher
+ 
+ 
+![Screenshot 2023-03-17 at 17 55 53](https://user-images.githubusercontent.com/54028278/225955873-a9977d26-86fc-4a0e-a377-603c6cc47b97.png)
 
 
 AI teacher is a web application that uses artificial intelligence to assist students with their homework.
