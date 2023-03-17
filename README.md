@@ -1,10 +1,10 @@
 ﻿AI teacher
 
 
-AIteacher is a web application that utilizes artificial intelligence to assist students with their homework.
+AI teacher is a web application that uses artificial intelligence to assist students with their homework.
 The application allows users to input their assignments, and it provides guidance and suggestions to help them 
 complete their homework.
-With AIteacher, users can improve their understanding of a certain subject and increase their productivity, 
+With AI teacher, users can improve their understanding of a certain subject and increase their productivity, 
 leading to better results in their studies.
 
 
